@@ -3,6 +3,8 @@ import ade from "../assets/ade.jpeg";
 import jack from "../assets/jack.jpeg";
 import luis from "../assets/luis.jpeg";
 
+// This is how an array of objects look like. You'll be seeing these a lot when you start learning REST APIs
+
 export const players = [
   {
     name: "Dami",
